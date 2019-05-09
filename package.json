@@ -1,0 +1,28 @@
+{
+  "name": "triple-store-benchmarking",
+  "version": "0.0.1",
+  "description": "Testing the performance of different dat-enabled triple-stores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mororor/triple-store-benchmarking.git"
+  },
+  "author": "mororor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mororor/triple-store-benchmarking/issues"
+  },
+  "homepage": "https://github.com/mororor/triple-store-benchmarking#readme",
+  "dependencies": {
+    "hyper-graph-db": "git+ssh://git@github.com:e-e-e/hyper-graph-db.git",
+    "md5": "^2.2.1",
+    "node-sha1": "^1.0.1",
+    "progress": "^2.0.3",
+    "rdf": "^4.1.0",
+    "rdflib": "^0.20.1",
+    "tape": "^4.10.1"
+  }
+}
