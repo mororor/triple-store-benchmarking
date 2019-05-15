@@ -18,11 +18,14 @@
   "homepage": "https://github.com/mororor/triple-store-benchmarking#readme",
   "dependencies": {
     "hyper-graph-db": "git+ssh://git@github.com:e-e-e/hyper-graph-db.git",
+    "level-browserify": "^2.0.0",
+    "levelgraph": "^2.1.1",
     "md5": "^2.2.1",
     "node-sha1": "^1.0.1",
     "progress": "^2.0.3",
     "rdf": "^4.1.0",
     "rdflib": "^0.20.1",
-    "tape": "^4.10.1"
+    "tape": "^4.10.1",
+    "toml": "^3.0.0"
   }
 }

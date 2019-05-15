@@ -1,0 +1,7 @@
+[ressources]
+cco = { name = 'CCO', url = 'http://data.bioontology.org/ontologies/CCO/submissions/9/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb' }
+# cco_09 = { name = 'CCO_09.rdf', url = 'http://data.bioontology.org/ontologies/CCO/submissions/8/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb' }
+
+[graphDBs]
+hyper-graph-db = true
+LevelGraph = false
